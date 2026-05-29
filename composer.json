@@ -1,5 +1,5 @@
 {
-    "name": "webbuilders-group/silverstripe-turnstile",
+    "name": "diveshop365/silverstripe-turnstile",
     "description": "A spam protector and form field using CloudFlare's Turnstile",
     "type": "silverstripe-vendormodule",
     "keywords": ["silverstripe", "cloudflare", "turnstile"],
